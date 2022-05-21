@@ -1,5 +1,6 @@
 # React TypeScript Notes_App
 
+# Screenshots
 
 # Getting Started with Create React App
 
