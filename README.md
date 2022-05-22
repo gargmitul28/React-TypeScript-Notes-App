@@ -1,6 +1,7 @@
 # React TypeScript Notes_App
 
 # Screenshots
+![Screenshot 1](https://user-images.githubusercontent.com/68656122/169689780-9cb0a635-40b0-4208-8723-36c4f03eb1de.png)
 
 # Getting Started with Create React App
 
